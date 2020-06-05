@@ -13,7 +13,7 @@
   transition: all 500ms linear;
 }
 
-.sidebar.active {
+.sidebar.active{
   left: 0;
 }
 
